@@ -1,1 +1,2 @@
-This is the mandatory file
+#!/bin/bash
+* This is the mandatory file
